@@ -24,7 +24,7 @@ Here is the dataset that i used - https://github.com/vithun97/Stock-Market-Real-
 
 ## What did i learn?
 
-Through this project, I gained valuable hands-on experience in various aspects of data engineering, including real-time data processing, data storage, and data querying. I honed my skills in using technologies such as Python, **AWS**, **Apache Kafka**, **Glue**, **Athena**, and **SQL**, and **learned how to effectively integrate them to build a complete end-to-end solution**. Additionally, I developed my ability to troubleshoot and overcome technical challenges, further strengthening my problem-solving skills. Overall, this project provided me with a comprehensive understanding of the complexities involved in real-time data analysis and reinforced my commitment to continuously improving my skills as a data engineer.
+Through this project, I gained valuable hands-on experience in various aspects of data engineering, including real-time data processing, data storage, and data querying. I honed my skills in using technologies such as **Python**, **AWS**, **Apache Kafka**, **Glue**, **Athena**, and **SQL**, and **learned how to effectively integrate them to build a complete end-to-end solution**. Additionally, I developed my ability to troubleshoot and overcome technical challenges, further strengthening my problem-solving skills. Overall, this project provided me with a comprehensive understanding of the complexities involved in real-time data analysis and reinforced my commitment to continuously improving my skills as a data engineer.
 
 
 
