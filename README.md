@@ -7,16 +7,16 @@
 <img src="Architecture.jpg">
 
 ## Technologies Used:  
-**- Python**
-**- Amazon Web Service (AWS)**
-**1. S3**
-**2. Athena**
-**3. Glue Crawler**
-**4. Glue Catalog**
-**5. EC2**
-**- Apache Kafka**
-
-
+* **Python**  
+* **AWS**  
+**1. S3**  
+**2. Athena**  
+**3. Glue Crawler**  
+**4. Glue Catalog**  
+**5. EC2**  
+* **Apache Kafka**  
+  
+  
 ## Dataset Used:
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
